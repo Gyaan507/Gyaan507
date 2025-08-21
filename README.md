@@ -1,8 +1,9 @@
-<!-- PROFILE HEADER -->
+_<!-- PROFILE HEADER -->
 <h1 align="center">👋 Hi, I'm Gyaneshwar Kumar</h1>
 <p align="center">
-  💻 Software Developer | 🚀 Passionate about React, FastAPI & C#  
+  💻 Software Developer | 🚀 Passionate about React, FastAPI & AIML
 </p>
+
 
 ---
 
@@ -80,3 +81,4 @@
 ---
 
 ⭐️ From [gyaan507](https://github.com/gyaan507)
+_AI
