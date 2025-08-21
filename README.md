@@ -63,14 +63,6 @@ _<!-- PROFILE HEADER -->
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/gyaan507/gyaan507/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
-
----
-
 ## 🌐 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/gyaneshwar-kumar-8b6250228/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
