@@ -8,8 +8,8 @@ _<!-- PROFILE HEADER -->
 ---
 
 ## 🌟 About Me
-- 🎓 2025 Graduate in Artificial Intelligence and Machine Learning, actively looking for job opportunities.  
-- 🤖 Skilled in **Machine Learning** and **Deep Learning** for building intelligent solutions.  
+- 🎓 2025 Graduate in Artificial Intelligence and Machine Learning.  
+- 🤖 Skilled in **Machine Learning** and **Deep Learning** for building intelligent solutions.
 - 💡 Strong in **React.js, FastAPI, Node.js, Express.js, PostgreSQL, MongoDB, and MySQL**  
 - 🚀 Currently working on **Dev Tinder** – a dating website for developers
 - 🌱 Always learning & building real-life impactful projects  
